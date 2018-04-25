@@ -8,6 +8,4 @@ Should contain :
   - Matlab simulations
 + other documents for educational purposes
 
-If more information needed, please contact
-  aurelie.bonnefoy@ens-rennes.fr
-  guillaume.pronost@ens-rennes.fr
+If more information needed, please contact aurelie.bonnefoy@ens-rennes.fr or guillaume.pronost@ens-rennes.fr
