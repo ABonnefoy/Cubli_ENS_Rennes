@@ -6,6 +6,6 @@ Should contain :
   - CAD of model
   - Instructions for use
   - Matlab simulations
-+ other documents for educational purposes
+  - More documents for educational purposes
 
 If more information needed, please contact aurelie.bonnefoy@ens-rennes.fr or guillaume.pronost@ens-rennes.fr
